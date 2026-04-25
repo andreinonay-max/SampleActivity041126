@@ -38,8 +38,8 @@ A project in "minimal computing", it provides a depth of learning opportunities,
 Learn about:
 
 - Git and GitHub basics
-- [Markdown](https://guides.github.com/features/mastering-markdown/), plaintext writing and content creation
-- HTML, CSS, and JavaScript literacy
+- [Markdown](ps://guides.github.com/features/mastering-markdown/), plaintext writing and content creation
+- HTML, CSS, and JavaScript literacyhtt
 - command line literacy
 - GitHub collaboration and project management
 - [Jekyll](https://jekyllrb.com/) basics
