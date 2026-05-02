@@ -88,7 +88,7 @@ Questions can be directed to **collectionbuilder.team@gmail.com**
     transform: translate(-50%, -50%);
     font-size: 48px;
   ">
-    🚀 My Title Here
+    🚀 Regional Artist
   </h1>
 
 </div>
