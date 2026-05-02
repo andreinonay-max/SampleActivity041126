@@ -65,6 +65,24 @@ Questions can be directed to **collectionbuilder.team@gmail.com**
 
 ## License
 
+<!-- NEON HEADER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=220&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=35&fontColor=00fff7&animation=twinkling" />
+
+---
+
+## 🧠 ABOUT ME
+```diff
++ Cyberpunk Developer Mode Activated
++ Learning. Building. Breaking. Rebuilding.
+- Old system: Offline
++ New system: Online with neon energy
+
+
+
+
+
+
+
 CollectionBuilder documentation and general web content is licensed [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/). 
 This license does *NOT* include any objects or images used in digital collections, which may have individually applied licenses described by a "rights" field.
 CollectionBuilder code is licensed [MIT](https://github.com/CollectionBuilder/collectionbuilder-csv/blob/master/LICENSE). 
