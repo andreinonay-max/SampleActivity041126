@@ -77,7 +77,21 @@ Questions can be directed to **collectionbuilder.team@gmail.com**
 - Old system: Offline
 + New system: Online with neon energy
 
+<div style="position: relative; text-align: center; color: white;">
+  
+  <img src="your-image-link.jpg" style="width:100%;">
 
+  <h1 style="
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 48px;
+  ">
+    🚀 My Title Here
+  </h1>
+
+</div>
 
 
 
