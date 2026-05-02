@@ -38,3 +38,4 @@ In partial fulfillment of the requirements for the subject **ART003: Arts Apprec
 This project serves as a creative study of Regional arts, focusing on the works and legacies of **Charlie Co, Victorio Edades, and Dante Enage**. It highlights their contributions to different movements in Filipino art—ranging from modernism and social realism to contemporary expressive forms—and their lasting cultural impact on Philippine visual identity.
 
 ---
+Go Hard or Go Home!!
