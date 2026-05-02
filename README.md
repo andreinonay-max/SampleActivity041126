@@ -77,26 +77,6 @@ Questions can be directed to **collectionbuilder.team@gmail.com**
 - Old system: Offline
 + New system: Online with neon energy
 
-<div style="position: relative; text-align: center; color: white;">
-  
-  <img src="your-image-link.jpg" style="width:100%;">
-
-  <h1 style="
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-size: 48px;
-  ">
-    🚀 Regional Artist
-  </h1>
-
-</div>
-
-
-
-
-
 CollectionBuilder documentation and general web content is licensed [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/). 
 This license does *NOT* include any objects or images used in digital collections, which may have individually applied licenses described by a "rights" field.
 CollectionBuilder code is licensed [MIT](https://github.com/CollectionBuilder/collectionbuilder-csv/blob/master/LICENSE). 
