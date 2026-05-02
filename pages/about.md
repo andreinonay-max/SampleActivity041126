@@ -19,8 +19,7 @@ The collection features:
 
 - A curated selection of major artworks from Charlie Co, Victorio Edades, and Dante Enage  
 - Documentation of artistic styles, themes, and influences across different periods  
-- Selected exhibitions, publications, and notable contributions to Philippine art history  
-- Metadata including artwork titles, creation dates, mediums, and historical context  
+- Selected exhibitions, publications, and notable contributions to Philippine art history   
 
 This site was created as a digital archive to preserve and showcase the legacy of these artists and their continuing influence on Philippine art and culture.
 ---
