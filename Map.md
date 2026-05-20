@@ -1,36 +1,75 @@
-<link rel="stylesheet"
-href="https://unpkg.com/leaflet/dist/leaflet.css"/> 
-<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-<script src="map.js"></script> 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-// Create map
-const map = L.map('map').setView([12.8797, 121.7740], 6);
+    <title>Regional Filipino Artist</title>
 
-// Map tiles
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; OpenStreetMap Contributors'
-}).addTo(map);
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet"
+    href="https://unpkg.com/leaflet/dist/leaflet.css"/>
 
-// BACOLOD
-const bacolod = L.marker([10.6765, 122.9509]).addTo(map);
+    <style>
 
-bacolod.bindPopup("<b>Bacolod</b><br>Charlie Co");
+        body{
+            margin:0;
+            font-family: Arial, sans-serif;
+        }
 
-// LEYTE
-const leyte = L.marker([11.2440, 124.9617]).addTo(map);
+        h1{
+            padding:15px;
+        }
 
-leyte.bindPopup("<b>Leyte</b>");
+        #map{
+            height:90vh;
+            width:100%;
+        }
 
-// PANGASINAN
-const pangasinan = L.marker([15.8949, 120.2863]).addTo(map);
+    </style>
+</head>
+<body>
 
-pangasinan.bindPopup("<b>Pangasinan</b>");
+    <h1>Regional Filipino Artist</h1>
 
-<div id="map"></div> 
-#map{
-    height: 600px;
-    width: 100%;
-} 
-git add .
-git commit -m "Added map markers"
-git push 
+    <!-- MAP -->
+    <div id="map"></div>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+    <script>
+
+        // CREATE MAP
+        const map = L.map('map').setView([12.8797, 121.7740], 6);
+
+        // MAP TILE
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; OpenStreetMap Contributors'
+        }).addTo(map);
+
+        // BACOLOD
+        const bacolod = L.marker([10.6765, 122.9509]).addTo(map);
+
+        bacolod.bindPopup(
+            "<b>Bacolod</b><br>Charlie Co"
+        );
+
+        // LEYTE
+        const leyte = L.marker([11.2440, 124.9617]).addTo(map);
+
+        leyte.bindPopup(
+            "<b>Leyte</b>"
+        );
+
+        // PANGASINAN
+        const pangasinan = L.marker([15.8949, 120.2863]).addTo(map);
+
+        pangasinan.bindPopup(
+            "<b>Pangasinan</b>"
+        );
+
+    </script>
+
+</body> 
+</html>
